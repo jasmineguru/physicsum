@@ -95,7 +95,8 @@ li{
 
 footer{
   width: 100%;
-
+  height: 50px;
+  margin-top: -50px;
   background-color: black;
   color: white;
   text-align: center;
