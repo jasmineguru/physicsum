@@ -116,7 +116,11 @@ li{
   padding-right:5px;
   padding-left: 5px;
   color: black;
+}
 
+body{
+
+  margin:15%;
 }
 
 /* footer{
